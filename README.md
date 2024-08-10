@@ -2,15 +2,6 @@
 
 This is a simple Hangman game implemented using HTML, CSS, and JavaScript. The game allows users to guess letters of a hidden word, and it provides feedback on their progress. The game also fetches words from an external API.
 
-## Table of Contents
-- [Demo](#demo)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [File Structure](#file-structure)
-- [Credits](#credits)
-- [License](#license)
-
 ## Features
 - Interactive Hangman game with dynamic updates based on user input.
 - Fetches random words from an external API.
